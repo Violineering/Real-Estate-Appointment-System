@@ -1,0 +1,3 @@
+2552;Codominium;Sungai Long, 93300, Kuching, Sarawak;11/22/24;12:00-14:00
+4866;Terraced house;455, Bukit Bintang, 55000, Kuala Lumpur;02/12/24;10:00-12:00
+8625;Semi-Ds;897, Bandar Mahkota Cheras, 43000, Kajang, Selangor;05/05/24;16:00-18:00
